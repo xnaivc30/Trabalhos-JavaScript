@@ -1,0 +1,30 @@
+.p_ttl {
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+    color:#4e3636;
+}
+
+main{
+    text-align: center;
+}
+
+body{
+    background-color: #d4b2b2;
+}
+
+button{
+    background-color: #816060;
+    padding: 5px;
+    border: none;
+    border-radius: 8px;
+    width: 10%;
+    cursor: pointer;
+    color: #ffffff;
+    font-weight:700;
+}
+
+.p_index{
+    color:#4e3636;
+    font-weight:700;
+}
